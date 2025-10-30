@@ -1,5 +1,5 @@
 import React from 'react'
-import JSONTreeVisualizer from './components/JsonTreeVisualizer.jsx'
+import JSONTreeVisualizer from './components/JSONTreeVisualizer.jsx'
 
 const App = () => {
   return (
